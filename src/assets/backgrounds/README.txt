@@ -1,0 +1,1 @@
+Place cover.png, menu_bg.png, hallway.png, and other scene backgrounds here. Optional CG gallery images should be named cg_<name>.png or cg-<name>.png in this same directory. Existing directory layout is intentionally unchanged.
